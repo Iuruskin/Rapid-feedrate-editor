@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCD5EC4B-1D34-4AEE-B2AB-BBB78E5E2F72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EFF0C76-37CF-4E05-B4C9-62908CCA209D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7EFF0C76-37CF-4E05-B4C9-62908CCA209D - cd3c67f3e2041e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rapid_feedrate_editor.changeRapid(gCode: Swift.String, safeZ: Swift.Double, currentFeedrate: Swift.Int, newFeedrate: Swift.Int) -&gt; (Swift.String, Swift.Int)"
+                  moduleName = "Rapid feedrate editor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirilluruskin/Documents/Swift/SwiftUI/Rapid%20feedrate%20editor/Rapid%20feedrate%20editor/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2072">
+               </Location>
+               <Location
+                  uuid = "7EFF0C76-37CF-4E05-B4C9-62908CCA209D - cd3c67f3e2041e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rapid_feedrate_editor.changeRapid(gCode: Swift.String, safeZ: Swift.Double, currentFeedrate: Swift.Int, newFeedrate: Swift.Int) -&gt; (Swift.String, Swift.Int)"
+                  moduleName = "Rapid feedrate editor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirilluruskin/Documents/Swift/SwiftUI/Rapid%20feedrate%20editor/Rapid%20feedrate%20editor/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80890042-F84A-4BDD-84F7-38911E1A6EF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0D53D98-F59E-45C3-AB76-204FD1C7D710"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17A04F87-B591-4490-97EB-2B4002A1F0EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB897FA-3335-4D9D-B19D-C19284FDB55F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D21278B-13DC-428E-AE11-AF8777805963"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rapid feedrate editor/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "changeRapid(gCode:safeZ:currentFeedrate:newFeedrate:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
